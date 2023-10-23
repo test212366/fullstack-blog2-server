@@ -1,0 +1,5 @@
+{
+  "serverPort": 7777,
+  "dbURL": "mongodb+srv://nikita:qwerty123@cluster0.rmt1a.mongodb.net/cloudStore?retryWrites=true&w=majority",
+  "secretKey": "19s2dfe3ds5fd293f84re0s627fds1dg8s790ha1a00af"
+}
